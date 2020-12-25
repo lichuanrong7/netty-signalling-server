@@ -1,0 +1,19 @@
+server:
+  port: ${random.int[10000,19999]}
+
+spring :
+  redis:
+    host: 192.168.56.5
+    database: 0
+    port: 6379
+    password: 123qwe
+    pool:
+      max-active: 8
+      max-idle: 8
+      max-wait: -1
+      min-idle: 0
+    timeout: 1000
+
+
+im:
+  port: 1314

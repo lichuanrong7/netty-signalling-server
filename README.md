@@ -1,0 +1,2 @@
+# netty-signalling-server
+分布式Netty应用，利用zookeeper实现多server的注册，实现分布式的即时通讯，计划完成WEBRTC信令的netty版本，目前还在完善中

@@ -7,9 +7,7 @@
 		<artifactId>signalling-server-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>com.signalling</groupId>
 	<artifactId>signalling-web</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>web</name>
 
 

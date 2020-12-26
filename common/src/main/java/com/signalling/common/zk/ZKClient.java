@@ -18,7 +18,7 @@ import java.util.concurrent.TimeUnit;
 public class ZKClient {
 
     private CuratorFramework client;
-    private static final String ZK_ADDRESS = "192.168.56.5:2181,192.168.56.5:2182,192.168.56.5:2183";
+    private static final String ZK_ADDRESS = "localhost:2181,localhost:2182,localhost:2183";
     //private static final String ZK_ADDRESS = "localhost:2181";
 
 
